@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Reminder Application</string>
+    <string name="se_4481">SE 4481</string>
+    <string name="_2021">2021</string>
+    <string name="todo">TODO</string>
+    <string name="reminder_application">Reminder Application</string>
+    <string name="reminderapp">ReminderApp</string>
+    <string name="about">About</string>
+    <string name="this_app_is_about_notifications">This app is about Notifications</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="save">Save</string>
+    <string name="reminder_for">Reminder for</string>
+    <string name="time">TIME</string>
+</resources>
